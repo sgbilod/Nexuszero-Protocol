@@ -8,10 +8,10 @@ version = "0.1.0"
 description = "Neural optimizer for zero-knowledge proof parameters"
 requires-python = ">=3.9"
 authors = [
-    {name = "Nexuszero Protocol", email = "info@nexuszero.com"}
+    {name = "Stephen Bilodeau", email = "sgbilod@gmail.com"}
 ]
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "UNLICENSED"}
 dependencies = [
     "torch>=2.1.0",
     "torch-geometric>=2.4.0",

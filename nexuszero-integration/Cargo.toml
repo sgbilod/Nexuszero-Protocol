@@ -3,7 +3,7 @@ name = "nexuszero-integration"
 version = "0.1.0"
 edition = "2021"
 description = "End-to-end integration layer combining crypto, optimizer, and holographic compression"
-license = "MIT"
+license = "UNLICENSED"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
